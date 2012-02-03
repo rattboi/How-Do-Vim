@@ -1,0 +1,41 @@
+So, you think you are a vim pro? See how many of these challenges you can get
+through by the end of the workshop.
+
+All problems should be accomplished without plugins inside of vim.
+
+1.  Sort the following list:
+
+    orange
+    bannanna
+    grape
+    apple
+    pear
+    kiwi
+
+2.  Use a macro to enumerate this list:
+   
+    one
+    two
+    three
+    four
+    five
+
+3.  You are now in Python. Write a macro that will comment out the current line:
+   
+    print hello
+   
+4.  Map 'jk' to <ESC> in insert mode.
+
+5.  Turn on relative line numbers.
+
+6.  Copy a piece of code off of the net, and paste it into vim in Paste mode.
+
+7.  Change the color of the status bar.
+
+8.  Perform Rot-13 on the following line.
+
+    Frperg 
+
+9.  Write a macro that reverses the current line.
+
+10. Find the holy grail.
